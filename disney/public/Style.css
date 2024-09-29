@@ -1,10 +1,13 @@
 body{
-    background : #313131;
-    color: white;
+    background : #E1A4A0 ;
+    color: black;
     margin: 0;
     font-family: Arial, sans-serif
 }
 
+h1{
+    color: white;
+}
 
  .tableauanimaux {
      overflow: auto;
@@ -22,22 +25,38 @@ body{
 }
 
 .tableauanimaux tr {
-    border-bottom: 1px solid #5e5d5d;
+    border-bottom: 1px solid #C45653;
 }
 
 .tableauanimaux th {
 
     border: none;
     height: 50px;
-    background-color: #504f4f;
+    background-color: #F28B8B;
     padding: 5px;
 }
 
 .tableauanimaux td {
     border: none;
     height: 40px;
-    background-color: #414040;
+    background-color: #FADADD;
     padding: 5px;
     text-align: center;
 
+}
+.create-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #C45653;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.create-button:hover {
+    background-color: #a33e3b;
 }
