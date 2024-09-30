@@ -33,7 +33,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Simba',
             'price' => '500',
             'description' => 'Le roi lion courageux',
-            'image' => "Simba.jpg",
+            'image' => "image/Simba.jpg",
             'datenaissance' => '1994-06-15'
         ]);
 
@@ -41,7 +41,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Bambi',
             'price' => '300',
             'description' => 'Un petit faon innocent',
-            'image' => "Bambi.jpg",
+            'image' => "image/Bambi.jpg",
             'datenaissance' => '1942-08-21'
 
         ]);
@@ -50,7 +50,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Dumbo',
             'price' => '400',
             'description' => 'L éléphant aux grandes oreilles',
-            'image' => "Dumbo.jpg",
+            'image' => "image/Dumbo.jpg",
             'datenaissance' => '1941-10-23'
         ]);
 
@@ -58,7 +58,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Timon',
             'price' => '1',
             'description' => 'Le compagnon de Pumba',
-            'image' => "Pumba.jpg",
+            'image' => "image/Pumba.jpg",
             'datenaissance' => '1994-06-24'
         ]);
 
@@ -66,7 +66,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Pumbaa',
             'price' => '200',
             'description' => 'Le compagnon insouciant de Timon',
-            'image' => "Pumba.jpg",
+            'image' => "image/Timon.jpg",
             'datenaissance' => '1994-06-24'
         ]);
 
