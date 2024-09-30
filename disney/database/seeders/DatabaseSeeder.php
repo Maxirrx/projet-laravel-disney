@@ -58,7 +58,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Timon',
             'price' => '1',
             'description' => 'Le compagnon de Pumba',
-            'image' => "image/Pumba.jpg",
+            'image' => "image/Timon.jpg",
             'datenaissance' => '1994-06-24'
         ]);
 
@@ -66,7 +66,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Pumbaa',
             'price' => '200',
             'description' => 'Le compagnon insouciant de Timon',
-            'image' => "image/Timon.jpg",
+            'image' => "image/Pumba.jpg",
             'datenaissance' => '1994-06-24'
         ]);
 
