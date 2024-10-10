@@ -109,5 +109,78 @@ class DatabaseSeeder extends Seeder
             'image' => "image/Polochon.jpg",
             'datenaissance' => '1989-11-17'
         ]);
+
+        Disney::create([
+            'name' => 'Bagheera',
+            'price' => '700',
+            'description' => 'Le léopard protecteur',
+            'image' => 'image/Bagheera.jpg',
+            'datenaissance' => '1967-10-18'
+        ]);
+
+        Disney::create([
+            'name' => 'Stitch',
+            'price' => '550',
+            'description' => 'L’extraterrestre malicieux',
+            'image' => 'image/Stitch.jpg',
+            'datenaissance' => '2002-12-26'
+        ]);
+
+
+        Disney::create([
+            'name' => 'Mushu',
+            'price' => '300',
+            'description' => 'Le dragon comique',
+            'image' => 'image/Mushu.jpg',
+            'datenaissance' => '1998-06-19'
+        ]);
+
+        Disney::create([
+            'name' => 'Rafiki',
+            'price' => '400',
+            'description' => 'Le sage mandrill',
+            'image' => 'image/Rafiki.jpg',
+            'datenaissance' => '1994-06-15'
+        ]);
+
+        Disney::create([
+            'name' => 'Jaq',
+            'price' => '300',
+            'description' => 'La souris fidèle de Cendrillon',
+            'image' => 'image/Jaq.jpg',
+            'datenaissance' => '1950-02-15'
+        ]);
+
+        Disney::create([
+            'name' => 'Basil',
+            'price' => '450',
+            'description' => 'Le détective souricier',
+            'image' => 'image/Basil.jpg',
+            'datenaissance' => '1986-07-02'
+        ]);
+
+        Disney::create([
+            'name' => 'Oliver',
+            'price' => '400',
+            'description' => 'Le chaton aventurier',
+            'image' => 'image/Oliver.jpg',
+            'datenaissance' => '1988-11-18'
+        ]);
+
+        Disney::create([
+            'name' => 'Figaro',
+            'price' => '300',
+            'description' => 'Le chat de Geppetto',
+            'image' => 'image/Figaro.jpg',
+            'datenaissance' => '1940-02-07'
+        ]);
+
+        Disney::create([
+            'name' => 'Tigrou',
+            'price' => '250',
+            'description' => 'Le petit kangourou de Winnie l’Ourson',
+            'image' => 'image/Tigrou.jpg',
+            'datenaissance' => '1977-02-11'
+        ]);
     }
 }

@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db5a8f8-b76a-4099-a407-52d4621eeb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/disney/public/Stylecreate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disney/public/Stylesolo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disney/resources/views/Create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disney/resources/views/Show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disney/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disney/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/disney/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/disney/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disney/public/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/disney/public/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disney/resources/views/Index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/resources/views/Index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disney/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php7.4.33\php.exe">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Users\max20\PC\Logiciel\PHP\php-8.3.12-nts-Win32-vs16-x64\php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/disney/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/disney/vendor/graham-campbell/result-type" />
@@ -147,19 +140,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/PC_Local/Thouverez/laravelpropre/Disneyprojet",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/max20/PC/PHP/projet-laravel-disney&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner configuration_file="$PROJECT_DIR$/disney/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
@@ -169,8 +162,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
-        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
       </set>
     </attachedChunks>
   </component>
@@ -185,10 +178,15 @@
       <workItem from="1726816187349" duration="233000" />
       <workItem from="1727567436608" duration="101000" />
       <workItem from="1727606076871" duration="19839000" />
+      <workItem from="1728459105675" duration="3538000" />
+      <workItem from="1728547183828" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>
