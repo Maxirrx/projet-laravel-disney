@@ -25,7 +25,7 @@ class DatabaseSeeder extends Seeder
             'name' => 'Nemo',
             'price' => '2',
             'description' => 'c est un petit poisson rigolo',
-            'image' => "https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/114626297",
+            'image' => "image/Nemo.jpg",
             'datenaissance' => '1989-06-03'
         ]);
 

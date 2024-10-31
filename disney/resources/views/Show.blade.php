@@ -9,10 +9,10 @@
     <title>Document</title>
 </head>
 <body>
-<a href="http://127.0.0.1:8000/" class="back-button">Retour</a>
-
+<a href="http://127.0.0.1:8000/disneys" class="back-button">Retour</a>
+<a href="http://127.0.0.1:8000/disneys/{{$find->id}}/edit" class="update-button">Modifier</a>
 <div class="image">
-    <img src="{{$find->image}}" alt="Image de {{$find->name}}">
+    <img src="/{{$find->image}}">
 </div>
 <div class="animal-info">
     <div class="info-item">

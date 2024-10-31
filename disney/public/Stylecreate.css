@@ -96,3 +96,8 @@ button:hover {
 .back-button:hover {
     background-color: #a33e3b;
 }
+
+
+.error {
+    background: red;
+}

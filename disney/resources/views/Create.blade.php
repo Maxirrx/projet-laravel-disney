@@ -5,17 +5,17 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="Stylecreate.css">
+    <link rel="stylesheet" href="/Stylecreate.css">
     <title>Document</title>
 </head>
 <body>
-<a href="http://127.0.0.1:8000/" class="back-button">Retour</a>
+<a href="http://127.0.0.1:8000/disneys" class="back-button">Retour</a>
 
 <div class="form-container">
-    <h2>Créer un Personnage Disney</h2>
-    <form action="/" method="POST">
+    <h2>{{__('Créer un Personnage Disney')}}</h2>
+    <form action="/cre" method="POST">
         @csrf
-        <label for="name">Nom</label>
+        <label for="name">{{__('Nom')}}</label>
         <input required value="{{old('animal_name')}}" type="text" id="name" name="animal_name"  required>
         @error('animal_name')
         <style>.error {background: red;}</style><div class="error">{{$message}} </div>@enderror

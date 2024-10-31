@@ -9,7 +9,7 @@
     <title>Liste des Animaux</title>
 </head>
 <body>
-<a href="http://127.0.0.1:8000/create" class="create-button">Créer</a>
+<a href="http://127.0.0.1:8000/disneys/create" class="create-button">Créer</a>
 <div name="titre_tableau">
     <h1>Tableau des Animaux</h1>
 </div>
@@ -29,7 +29,7 @@
         <td>{{$row->price }}€</td>
         <td>{{$row->description }}</td>
         <td>{{$row->datenaissance }}</td>
-        <td><a href="/{{$row->id}}">voir</a></td>
+        <td><a href="/disneys/{{$row->id}}">voir</a></td>
     </tr>
     @endforeach
 </table>

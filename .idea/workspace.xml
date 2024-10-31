@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db5a8f8-b76a-4099-a407-52d4621eeb8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/disney/lang/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disney/lang/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disney/resources/views/Edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disney/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/disney/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/disney/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disney/public/Stylecreate.css" beforeDir="false" afterPath="$PROJECT_DIR$/disney/public/Stylecreate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disney/resources/views/Create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/resources/views/Create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disney/resources/views/Index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/resources/views/Index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disney/resources/views/Show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/resources/views/Show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disney/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/disney/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +187,9 @@
       <workItem from="1727606076871" duration="19839000" />
       <workItem from="1728459105675" duration="3538000" />
       <workItem from="1728547183828" duration="569000" />
+      <workItem from="1730379131520" duration="593000" />
+      <workItem from="1730379750455" duration="245000" />
+      <workItem from="1730380000388" duration="4592000" />
     </task>
     <servers />
   </component>
